@@ -1,7 +1,6 @@
 # Hi, I'm NibisUA
 
 I build web apps and Telegram bots, mostly with Python.
-I also led Merge-Conflict, a three-person team at the ShockBench-Flow hackathon.
 
 ## Projects
 
